@@ -1,0 +1,70 @@
+body{
+    font-family: 'Helvetica Neue', Helvetica, Arial;
+    font-size: 18px;
+    line-height: 15px;
+    font-weight: 531;
+    color: black;
+    -webkit-font-smothing: antialiased;
+    background-color: rgba(96, 255, 234, 0.288);
+    
+}
+.header{
+    width: 100%;
+    margin: 0 0 40px 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    display: table;
+}
+.row{
+      
+}
+.nav{
+    display: table-header-group;
+    background: rgba(26, 235, 224, 0.726);
+}
+.hed{
+    padding: 6px 21px;
+    display: inline-table;
+    margin-top: 11px;
+}
+.main{
+    display: flex;
+    line-height: 25px;
+    font-size: 21px;
+}
+.main-2{
+    display: flex;
+    line-height: 25px;
+    font-size: 21px;
+    margin-top: 3%;
+    padding-bottom: 5%;
+}
+.aside{
+    margin-left: 2%;
+    background: white;
+    padding: 2%;
+    border-radius: 5%;
+}
+.raw{
+    margin-left: 5%;
+    background: white;
+    border-radius: 5%;
+}
+.cont{
+    width: 80%;
+    margin: auto;
+    padding: 40px;
+    margin-top: 3%;
+    line-height: 25px;
+    font-size: 21px;
+    background: white;
+}
+footer{
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+}
+#as-1{
+    margin-left: 60%;
+}
